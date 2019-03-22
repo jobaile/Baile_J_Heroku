@@ -1,8 +1,8 @@
-##Gibson Les Paul
+#Gibson Les Paul
 Choose between three different Gibson Les Paul 2019 models
 
 ##Heroku
-Check out the live app on Heroku(https://gibson-heroku.herokuapp.com/)
+Check out the live app on [Heroku](https://gibson-heroku.herokuapp.com/)
 
 ##Locally
 1. Run `npm install`
